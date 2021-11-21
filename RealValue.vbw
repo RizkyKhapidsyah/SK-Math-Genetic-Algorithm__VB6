@@ -1,0 +1,11 @@
+frmMain = 9, 35, 726, 623, Z, 26, 7, 571, 430, C
+mdDefn = 69, 163, 710, 586, 
+mdDec = 78, 78, 623, 501, 
+mdPopRoutines = 30, 125, 728, 548, 
+mdFitness = 161, 67, 706, 490, 
+mdSelection = 44, 144, 693, 567, 
+mdCrossover = 46, 53, 723, 467, 
+mdMutation = 0, 0, 733, 423, 
+mdSort = 103, 79, 648, 502, 
+mdScale = 84, 107, 629, 530, 
+mdGNULic = 156, 156, 686, 579, 
